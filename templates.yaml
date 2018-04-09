@@ -1,0 +1,17 @@
+welcome: |
+  acolyte.
+
+welcome_re: |
+  acolyte. How may I help you?
+
+welcome_card: |
+  acolyte is an Alexa skill written by andrewbolster. Connectors
+
+stop_bye: |
+  Goodbye!
+
+cancel_bye: |
+  OK, goodbye!
+
+help_text: |
+  acolyte is an Alexa skill that does things. This is where the developer would normally explain how to do them.
